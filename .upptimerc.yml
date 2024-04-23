@@ -79,6 +79,7 @@ sites:
     url: https://www.chrc-ccdp.gc.ca/
   - name: Canada Mortgage and Housing Corporation
     url: https://www.cmhc-schl.gc.ca/
+    __dangerous__disable_verify_peer: true
   - name: Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire
     url: https://www.cnsc-ccsn.gc.ca/
   - name: Welcome / Civilian Review and Complaints Commission for the RCMP
