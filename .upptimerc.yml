@@ -177,9 +177,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: neuvians.io
+  cname: maxneuvians.github.io
   baseUrl: /status-statut
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.canada.ca/etc/designs/canada/wet-boew/assets/sig-blk-en.svg
   name: ""
   introTitle: "Government of Canada / Gouvernement du Canada"
   introMessage: Status page for the Government of Canada / Page de statut pour le  Gouvernement du Canada
