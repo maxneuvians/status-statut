@@ -671,19 +671,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cmhc-schl.gc.ca.ico",
     "slug": "canada-mortgage-and-housing-corporation",
     "status": "up",
-    "uptime": "1.60%",
-    "uptimeDay": "1.60%",
-    "uptimeWeek": "1.60%",
-    "uptimeMonth": "1.60%",
-    "uptimeYear": "1.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 659,
     "timeDay": 659,
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 659,
-    "dailyMinutesDown": {
-      "2024-04-23": 75
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Canadian Nuclear Safety Commission - Commission canadienne de sûreté nucléaire",
@@ -1428,7 +1426,7 @@
     "url": "https://www.tbs-sct.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tbs-sct.gc.ca.ico",
     "slug": "welcome-to-the-treasury-board-of-canada-secretariat-bienvenue-au-secretariat-du-conseil-du-tresor-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
