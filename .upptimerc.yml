@@ -19,7 +19,7 @@ sites:
     url: https://irb-cisr.gc.ca/
   - name: Bibliothèque et Archives Canada / Library and Archives Canada
     url: https://library-archives.canada.ca/
-  - name: Language selection - Military Police Complaints Commission of Canada / Sélection de la langue - Commission d’examen des plaintes concernant la police militaire du Canada
+  - name: Military Police Complaints Commission of Canada / Commission d’examen des plaintes concernant la police militaire du Canada
     url: https://www.mpcc-cppm.gc.ca/
   - name: National Arts Centre / Canada is our stage
     url: https://nac-cna.ca/
@@ -27,7 +27,7 @@ sites:
     url: https://nature.ca/
   - name: National Capital Commission -  National Capital Commission
     url: https://ncc-ccn.gc.ca
-  - name: Language selection - Northern Pipeline Agency / Sélection de la langue - Administration du pipe-line du Nord
+  - name: Northern Pipeline Agency / Administration du pipe-line du Nord
     url: https://northern-pipeline.canada.ca
   - name: Home - National Research Council Canada
     url: https://nrc.canada.ca/en/
@@ -43,7 +43,7 @@ sites:
     url: https://www.acoa-apeca.gc.ca/
   - name: Atomic Energy of Canada Ltd (AECL) - Home
     url: https://www.aecl.ca/
-  - name: Language selection - Agriculture and Agri-Food Canada / Sélection de la langue - Agriculture et Agroalimentaire Canada
+  - name: Agriculture and Agri-Food Canada / Agriculture et Agroalimentaire Canada
     url: https://www.agr.gc.ca/
   - name: Agence spatiale canadienne / Canadian Space Agency
     url: https://www.asc-csa.gc.ca/
