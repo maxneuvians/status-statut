@@ -39,7 +39,7 @@ sites:
     url: https://travel.gc.ca/
   - name: Weather Information - Environment Canada
     url: https://weather.gc.ca/
-  - name: Agence de promotion économique du Canada atlantique| Atlantic Canada Opportunities Agency
+  - name: Agence de promotion économique du Canada atlantique / Atlantic Canada Opportunities Agency
     url: https://www.acoa-apeca.gc.ca/
   - name: Atomic Energy of Canada Ltd (AECL) - Home
     url: https://www.aecl.ca/
