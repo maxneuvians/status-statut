@@ -1214,19 +1214,19 @@
     "url": "https://www.idrc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.idrc.ca.ico",
     "slug": "idrc-international-development-research-centre",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 674,
-    "timeDay": 492,
-    "timeWeek": 674,
-    "timeMonth": 674,
-    "timeYear": 674,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 691,
+    "timeDay": 715,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-04-28": 1
+      "2024-04-28": 8
     }
   },
   {
