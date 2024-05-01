@@ -1,7 +1,7 @@
 url: https://www.cdic.ca/
-status: up
-code: 200
-responseTime: 913
-lastUpdated: 2024-05-01T02:28:06.515Z
+status: down
+code: 400
+responseTime: 275
+lastUpdated: 2024-05-01T02:39:54.693Z
 startTime: 2024-04-23T18:33:53.504Z
 generator: Upptime <https://github.com/upptime/upptime>
