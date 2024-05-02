@@ -1,7 +1,7 @@
 url: https://www.gallery.ca/
-status: up
-code: 200
-responseTime: 249
-lastUpdated: 2024-05-02T14:49:43.428Z
+status: down
+code: 502
+responseTime: 1974
+lastUpdated: 2024-05-02T20:23:43.003Z
 startTime: 2024-04-23T18:34:06.055Z
 generator: Upptime <https://github.com/upptime/upptime>
