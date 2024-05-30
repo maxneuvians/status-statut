@@ -1,7 +1,7 @@
 url: https://www.ccohs.ca/
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2024-05-29T23:06:31.663Z
+status: down
+code: 502
+responseTime: 218
+lastUpdated: 2024-05-30T16:21:17.880Z
 startTime: 2024-04-23T18:33:52.934Z
 generator: Upptime <https://github.com/upptime/upptime>
