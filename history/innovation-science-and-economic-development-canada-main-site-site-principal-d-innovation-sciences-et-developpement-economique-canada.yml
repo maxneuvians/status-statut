@@ -1,7 +1,7 @@
-url: https://www.ic.gc.ca/
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2024-06-29T23:06:34.041Z
+url: https://ised-isde.canada.ca/
+status: down
+code: 500
+responseTime: 371
+lastUpdated: 2024-06-30T19:15:19.832Z
 startTime: 2024-04-23T18:34:08.707Z
 generator: Upptime <https://github.com/upptime/upptime>
