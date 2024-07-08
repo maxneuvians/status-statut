@@ -575,10 +575,10 @@
     "url": "https://weather.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/weather.gc.ca.ico",
     "slug": "weather-information-environment-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.16%",
     "time": 660,
@@ -587,6 +587,7 @@
     "timeMonth": 912,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2024-07-08": 1,
       "2024-05-11": 1417,
       "2024-05-10": 529,
       "2024-05-07": 72
