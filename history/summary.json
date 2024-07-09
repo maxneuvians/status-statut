@@ -450,7 +450,7 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -458,7 +458,7 @@
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 235,
-    "timeWeek": 286,
+    "timeWeek": 285,
     "timeMonth": 325,
     "timeYear": 324,
     "dailyMinutesDown": {}
