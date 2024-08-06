@@ -1,7 +1,7 @@
-url: https://www.tc.gc.ca/
-status: down
-code: 502
-responseTime: 441
-lastUpdated: 2024-08-06T14:34:42.450Z
+url: https://tc.canada.ca/
+status: up
+code: 200
+responseTime: 216
+lastUpdated: 2024-08-06T14:51:17.974Z
 startTime: 2024-04-23T18:34:26.028Z
 generator: Upptime <https://github.com/upptime/upptime>
