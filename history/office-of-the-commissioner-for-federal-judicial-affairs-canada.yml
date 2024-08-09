@@ -1,7 +1,7 @@
 url: https://www.fja-cmf.gc.ca/
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2024-08-08T23:06:43.212Z
+status: down
+code: 500
+responseTime: 155
+lastUpdated: 2024-08-09T14:44:35.637Z
 startTime: 2024-04-23T18:34:05.573Z
 generator: Upptime <https://github.com/upptime/upptime>
