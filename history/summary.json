@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-08-19": 1004,
+      "2024-08-19": 1017,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -177,7 +177,7 @@
     "url": "https://sac-isc.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/sac-isc.gc.ca.ico",
     "slug": "services-aux-autochtones-canada-indigenous-services-canada-canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -239,7 +239,7 @@
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 200,
-    "timeWeek": 249,
+    "timeWeek": 255,
     "timeMonth": 314,
     "timeYear": 321,
     "dailyMinutesDown": {}
@@ -1168,18 +1168,20 @@
     "url": "https://www.fcc-fac.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fcc-fac.ca.ico",
     "slug": "farm-credit-canada-fcc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 435,
     "timeDay": 215,
     "timeWeek": 590,
     "timeMonth": 428,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-19": 4
+    }
   },
   {
     "name": "Federal Economic Development Agency for Southern Ontario Main Site / Site principal Agence fédérale de développement économique pour le Sud de l'Ontario",
@@ -1342,18 +1344,20 @@
     "url": "https://www.idrc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.idrc.ca.ico",
     "slug": "idrc-international-development-research-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 679,
     "timeDay": 520,
     "timeWeek": 586,
     "timeMonth": 937,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-19": 3
+    }
   },
   {
     "name": "Infrastructure Canada / Infrastructure Canada",
@@ -1649,7 +1653,7 @@
     "status": "up",
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.12%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "98.51%",
     "time": 320,
@@ -1672,7 +1676,7 @@
     "url": "https://www.sac-isc.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sac-isc.gc.ca.ico",
     "slug": "services-aux-autochtones-canada-indigenous-services-canada-canada-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
