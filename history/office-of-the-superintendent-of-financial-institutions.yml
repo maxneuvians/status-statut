@@ -1,7 +1,7 @@
 url: https://www.osfi-bsif.gc.ca/
-status: down
-code: 504
-responseTime: 196
-lastUpdated: 2024-08-26T23:08:04.132Z
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2024-08-26T23:46:57.253Z
 startTime: 2024-04-23T18:34:18.568Z
 generator: Upptime <https://github.com/upptime/upptime>
