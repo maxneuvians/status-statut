@@ -1,7 +1,7 @@
 url: https://www.gg.ca/
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2024-08-26T09:19:58.026Z
+status: down
+code: 502
+responseTime: 85
+lastUpdated: 2024-08-26T19:25:03.359Z
 startTime: 2024-04-23T18:34:06.660Z
 generator: Upptime <https://github.com/upptime/upptime>
