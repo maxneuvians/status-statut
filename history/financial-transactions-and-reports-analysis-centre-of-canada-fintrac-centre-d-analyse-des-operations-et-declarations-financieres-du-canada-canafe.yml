@@ -1,7 +1,7 @@
 url: https://www.fintrac-canafe.gc.ca/
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2024-08-31T23:06:34.519Z
+status: down
+code: 502
+responseTime: 1985
+lastUpdated: 2024-09-01T06:12:42.085Z
 startTime: 2024-04-23T18:34:04.947Z
 generator: Upptime <https://github.com/upptime/upptime>
