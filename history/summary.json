@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sst-tss.gc.ca.ico",
     "slug": "home-social-security-tribunal-of-canada",
     "status": "down",
-    "uptime": "62.99%",
+    "uptime": "62.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.99%",
+    "uptimeYear": "62.98%",
     "time": 468,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-09-02": 1308,
+      "2024-09-02": 1318,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -1361,10 +1361,10 @@
     "url": "https://www.idrc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.idrc.ca.ico",
     "slug": "idrc-international-development-research-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
@@ -1372,7 +1372,9 @@
     "timeWeek": 603,
     "timeMonth": 717,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-02": 1
+    }
   },
   {
     "name": "Infrastructure Canada / Infrastructure Canada",
