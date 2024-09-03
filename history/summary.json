@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-09-03": 785,
+      "2024-09-03": 800,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -1298,7 +1298,7 @@
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 146,
-    "timeWeek": 2211,
+    "timeWeek": 2273,
     "timeMonth": 1377,
     "timeYear": 676,
     "dailyMinutesDown": {}
@@ -1363,18 +1363,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.idrc.ca.ico",
     "slug": "idrc-international-development-research-centre",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 699,
     "timeDay": 669,
     "timeWeek": 638,
     "timeMonth": 722,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-09-03": 48
+      "2024-09-03": 37
     }
   },
   {
@@ -1516,7 +1516,7 @@
     "url": "https://www.nserc-crsng.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.nserc-crsng.gc.ca.ico",
     "slug": "natural-sciences-and-engineering-research-council-of-canada-conseil-de-recherches-en-sciences-naturelles-et-en-genie-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
