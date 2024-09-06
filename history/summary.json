@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-09-06": 515,
+      "2024-09-06": 535,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -519,7 +519,7 @@
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 352,
-    "timeWeek": 302,
+    "timeWeek": 301,
     "timeMonth": 322,
     "timeYear": 329,
     "dailyMinutesDown": {}
@@ -1296,7 +1296,7 @@
     "url": "https://www.gg.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gg.ca.ico",
     "slug": "governor-general-of-canada-gouverneure-generale-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1835,7 +1835,7 @@
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 417,
-    "timeWeek": 313,
+    "timeWeek": 314,
     "timeMonth": 333,
     "timeYear": 329,
     "dailyMinutesDown": {}
