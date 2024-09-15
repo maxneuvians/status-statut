@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-09-15": 211,
+      "2024-09-15": 222,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -1844,7 +1844,7 @@
     "url": "https://www.tsb.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tsb.gc.ca.ico",
     "slug": "transportation-safety-board-of-canada-bureau-de-la-securite-des-transports-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1852,8 +1852,8 @@
     "uptimeYear": "100.00%",
     "time": 355,
     "timeDay": 245,
-    "timeWeek": 285,
-    "timeMonth": 425,
+    "timeWeek": 284,
+    "timeMonth": 424,
     "timeYear": 355,
     "dailyMinutesDown": {}
   },
