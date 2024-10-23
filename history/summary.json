@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-10-23": 335,
+      "2024-10-23": 345,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -316,7 +316,7 @@
     "url": "https://www.cyber.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyber.gc.ca.ico",
     "slug": "canadian-center-for-cyber-security-centre-canadien-pour-la-cybersecurite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -564,7 +564,7 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -572,7 +572,7 @@
     "uptimeYear": "100.00%",
     "time": 331,
     "timeDay": 314,
-    "timeWeek": 321,
+    "timeWeek": 317,
     "timeMonth": 346,
     "timeYear": 331,
     "dailyMinutesDown": {}
@@ -1170,10 +1170,10 @@
     "url": "https://www.cse-cst.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cse-cst.gc.ca.ico",
     "slug": "communications-security-establishment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
@@ -1181,7 +1181,9 @@
     "timeWeek": 201,
     "timeMonth": 234,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-23": 1
+    }
   },
   {
     "name": "Canada School of Public Service / École de la fonction publique du Canada",
@@ -1668,7 +1670,7 @@
     "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.79%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "96.33%",
     "time": 1356,
     "timeDay": 246,
