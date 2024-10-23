@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-10-23": 393,
+      "2024-10-23": 405,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1170,10 +1170,10 @@
     "url": "https://www.cse-cst.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cse-cst.gc.ca.ico",
     "slug": "communications-security-establishment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 245,
@@ -1182,7 +1182,7 @@
     "timeMonth": 230,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-10-23": 19
+      "2024-10-23": 20
     }
   },
   {
@@ -1670,7 +1670,7 @@
     "uptime": "96.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.92%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "96.34%",
     "time": 1356,
     "timeDay": 246,
