@@ -1,7 +1,7 @@
 url: https://www.rcmp-grc.gc.ca/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-07T18:07:56.912Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2024-11-07T18:35:25.101Z
 startTime: 2024-04-23T18:34:22.465Z
 generator: Upptime <https://github.com/upptime/upptime>
