@@ -1,7 +1,7 @@
 url: https://nature.ca/
-status: up
-code: 200
-responseTime: 1257
-lastUpdated: 2024-11-06T23:06:38.204Z
+status: down
+code: 500
+responseTime: 112
+lastUpdated: 2024-11-07T12:59:56.719Z
 startTime: 2024-04-23T18:33:35.709Z
 generator: Upptime <https://github.com/upptime/upptime>
