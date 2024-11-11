@@ -1,7 +1,7 @@
 url: https://www.veterans.gc.ca/
-status: down
-code: 503
-responseTime: 120
-lastUpdated: 2024-11-11T17:50:33.614Z
+status: up
+code: 200
+responseTime: 13245
+lastUpdated: 2024-11-11T17:59:47.503Z
 startTime: 2024-04-23T18:34:28.207Z
 generator: Upptime <https://github.com/upptime/upptime>
