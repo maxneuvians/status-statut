@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-11-12": 444,
+      "2024-11-12": 455,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -594,7 +594,7 @@
     "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 310,
-    "timeWeek": 326,
+    "timeWeek": 327,
     "timeMonth": 324,
     "timeYear": 330,
     "dailyMinutesDown": {}
@@ -650,7 +650,7 @@
     "uptime": "88.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.29%",
+    "uptimeMonth": "34.26%",
     "uptimeYear": "88.30%",
     "time": 340,
     "timeDay": 0,
@@ -658,7 +658,7 @@
     "timeMonth": 225,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-11-12": 444,
+      "2024-11-12": 456,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -1454,10 +1454,10 @@
     "url": "https://www.historymuseum.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.historymuseum.ca.ico",
     "slug": "home-canadian-museum-of-history",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
@@ -1465,7 +1465,9 @@
     "timeWeek": 3306,
     "timeMonth": 2467,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 2
+    }
   },
   {
     "name": "Innovation, Science and Economic Development Canada Main Site /  Site principal d'Innovation, Sciences et Développement économique Canada",
