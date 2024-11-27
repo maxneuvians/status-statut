@@ -1,7 +1,7 @@
 url: https://www.cmhc-schl.gc.ca/
-status: down
-code: 502
-responseTime: 120
-lastUpdated: 2024-11-27T03:56:11.487Z
+status: up
+code: 200
+responseTime: 1380
+lastUpdated: 2024-11-27T05:45:39.841Z
 startTime: 2024-04-23T18:33:55.441Z
 generator: Upptime <https://github.com/upptime/upptime>
