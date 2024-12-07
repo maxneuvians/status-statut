@@ -1,7 +1,7 @@
-url: http://www.cbsa-asfc.gc.ca/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-07T08:20:04.112Z
+url: https://www.cbsa-asfc.gc.ca/
+status: up
+code: 200
+responseTime: 466
+lastUpdated: 2024-12-07T08:33:28.579Z
 startTime: 2024-04-23T18:33:50.994Z
 generator: Upptime <https://github.com/upptime/upptime>
