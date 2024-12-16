@@ -1,7 +1,7 @@
 url: https://ncc-ccn.gc.ca
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2024-12-16T00:35:02.318Z
+status: down
+code: 403
+responseTime: 378
+lastUpdated: 2024-12-16T05:53:36.059Z
 startTime: 2024-04-23T18:33:37.093Z
 generator: Upptime <https://github.com/upptime/upptime>
