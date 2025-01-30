@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-01-30": 828,
+      "2025-01-30": 848,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-01-30": 828,
+      "2025-01-30": 848,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -721,15 +721,15 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 362,
-    "timeWeek": 313,
+    "timeDay": 366,
+    "timeWeek": 314,
     "timeMonth": 313,
     "timeYear": 323,
     "dailyMinutesDown": {}
@@ -1664,9 +1664,9 @@
     "slug": "home-canadian-museum-of-history",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2111,
     "timeDay": 2420,
@@ -1674,7 +1674,6 @@
     "timeMonth": 3993,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2025-01-30": 9,
       "2024-12-01": 27
     }
   },
