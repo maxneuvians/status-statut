@@ -1,7 +1,7 @@
 url: https://www.dfo-mpo.gc.ca/
-status: up
-code: 200
-responseTime: 162
-lastUpdated: 2025-01-31T23:06:33.225Z
+status: down
+code: 503
+responseTime: 171
+lastUpdated: 2025-02-01T10:50:46.140Z
 startTime: 2024-04-23T18:34:01.927Z
 generator: Upptime <https://github.com/upptime/upptime>
