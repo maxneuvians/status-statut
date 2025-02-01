@@ -1,7 +1,7 @@
 url: https://www.agr.gc.ca/
-status: down
-code: 503
-responseTime: 15670
-lastUpdated: 2025-02-01T07:13:42.111Z
+status: up
+code: 200
+responseTime: 351
+lastUpdated: 2025-02-01T07:24:20.355Z
 startTime: 2024-04-23T19:29:14.428Z
 generator: Upptime <https://github.com/upptime/upptime>
