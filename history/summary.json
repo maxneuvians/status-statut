@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-02-06": 901,
+      "2025-02-06": 914,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-02-06": 901,
+      "2025-02-06": 914,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -735,7 +735,7 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -743,7 +743,7 @@
     "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 293,
-    "timeWeek": 318,
+    "timeWeek": 317,
     "timeMonth": 314,
     "timeYear": 322,
     "dailyMinutesDown": {}
