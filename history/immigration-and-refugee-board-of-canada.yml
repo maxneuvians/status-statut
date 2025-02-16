@@ -1,7 +1,7 @@
 url: https://irb-cisr.gc.ca/
-status: down
-code: 404
-responseTime: 213
-lastUpdated: 2025-02-16T06:55:02.540Z
+status: up
+code: 200
+responseTime: 410
+lastUpdated: 2025-02-16T07:05:49.649Z
 startTime: 2024-04-23T18:33:30.279Z
 generator: Upptime <https://github.com/upptime/upptime>
