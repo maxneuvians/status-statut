@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-02-16": 1159,
+      "2025-02-16": 1178,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-02-16": 1159,
+      "2025-02-16": 1178,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -413,7 +413,7 @@
     "uptimeYear": "100.00%",
     "time": 283,
     "timeDay": 199,
-    "timeWeek": 262,
+    "timeWeek": 266,
     "timeMonth": 276,
     "timeYear": 283,
     "dailyMinutesDown": {}
@@ -1750,7 +1750,7 @@
     "time": 748,
     "timeDay": 0,
     "timeWeek": 643,
-    "timeMonth": 678,
+    "timeMonth": 684,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-01-23": 24,
@@ -1805,7 +1805,7 @@
     "time": 3901,
     "timeDay": 0,
     "timeWeek": 432,
-    "timeMonth": 486,
+    "timeMonth": 476,
     "timeYear": 3901,
     "dailyMinutesDown": {}
   },
@@ -2138,7 +2138,7 @@
     "uptime": "96.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.72%",
+    "uptimeMonth": "71.67%",
     "uptimeYear": "96.31%",
     "time": 466,
     "timeDay": 0,
@@ -2146,7 +2146,7 @@
     "timeMonth": 408,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-02-16": 1161,
+      "2025-02-16": 1181,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -2212,7 +2212,7 @@
     "url": "https://www.statcan.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.statcan.gc.ca.ico",
     "slug": "statistics-canada-canada-s-national-statistical-agency-statistique-canada-organisme-statistique-national-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2284,7 +2284,7 @@
     "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 484,
-    "timeWeek": 683,
+    "timeWeek": 702,
     "timeMonth": 763,
     "timeYear": 944,
     "dailyMinutesDown": {}
