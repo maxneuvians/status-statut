@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-02-26": 540,
+      "2025-02-26": 567,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-02-26": 540,
+      "2025-02-26": 567,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -433,7 +433,7 @@
     "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 230,
-    "timeWeek": 307,
+    "timeWeek": 302,
     "timeMonth": 298,
     "timeYear": 289,
     "dailyMinutesDown": {}
@@ -542,7 +542,7 @@
     "time": 333,
     "timeDay": 340,
     "timeWeek": 401,
-    "timeMonth": 335,
+    "timeMonth": 337,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-01-29": 23,
@@ -778,7 +778,7 @@
     "url": "https://ncc-ccn.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ncc-ccn.gc.ca.ico",
     "slug": "national-capital-commission-national-capital-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2169,7 +2169,7 @@
     "uptime": "93.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.26%",
+    "uptimeMonth": "40.20%",
     "uptimeYear": "93.32%",
     "time": 466,
     "timeDay": 0,
@@ -2177,7 +2177,7 @@
     "timeMonth": 367,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-02-26": 543,
+      "2025-02-26": 569,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -2280,7 +2280,7 @@
     "time": 333,
     "timeDay": 340,
     "timeWeek": 401,
-    "timeMonth": 335,
+    "timeMonth": 336,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-01-29": 23,
@@ -2325,7 +2325,7 @@
     "uptimeYear": "100.00%",
     "time": 927,
     "timeDay": 655,
-    "timeWeek": 734,
+    "timeWeek": 733,
     "timeMonth": 746,
     "timeYear": 927,
     "dailyMinutesDown": {}
