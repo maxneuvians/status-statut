@@ -1,7 +1,7 @@
 url: https://iaac-aeic.gc.ca
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2025-02-28T23:06:30.076Z
+status: down
+code: 403
+responseTime: 454
+lastUpdated: 2025-03-01T01:46:41.007Z
 startTime: 2024-04-24T15:13:45.969Z
 generator: Upptime <https://github.com/upptime/upptime>
