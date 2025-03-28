@@ -1,7 +1,7 @@
 url: https://www.tsb.gc.ca/
-status: down
-code: 403
-responseTime: 93
-lastUpdated: 2025-03-28T13:05:30.630Z
+status: up
+code: 200
+responseTime: 250
+lastUpdated: 2025-03-28T13:20:29.656Z
 startTime: 2024-04-23T18:34:26.691Z
 generator: Upptime <https://github.com/upptime/upptime>
