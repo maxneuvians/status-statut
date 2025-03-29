@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-03-29": 1271,
+      "2025-03-29": 1285,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -157,7 +157,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-03-29": 1271,
+      "2025-03-29": 1285,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -514,7 +514,7 @@
     "time": 514,
     "timeDay": 347,
     "timeWeek": 404,
-    "timeMonth": 472,
+    "timeMonth": 476,
     "timeYear": 514,
     "dailyMinutesDown": {}
   },
@@ -603,7 +603,7 @@
     "uptimeYear": "99.41%",
     "time": 349,
     "timeDay": 268,
-    "timeWeek": 528,
+    "timeWeek": 553,
     "timeMonth": 581,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -853,7 +853,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 290,
+    "timeDay": 291,
     "timeWeek": 323,
     "timeMonth": 316,
     "timeYear": 321,
@@ -1062,7 +1062,7 @@
     "timeMonth": 564,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-03-29": 1272,
+      "2025-03-29": 1286,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1471,7 +1471,7 @@
     "url": "https://www.cer-rec.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cer-rec.gc.ca.ico",
     "slug": "canada-energy-regulator-site-site-de-regie-de-l-energie-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -2239,7 +2239,7 @@
     "time": 479,
     "timeDay": 378,
     "timeWeek": 409,
-    "timeMonth": 460,
+    "timeMonth": 470,
     "timeYear": 479,
     "dailyMinutesDown": {}
   },
@@ -2296,7 +2296,7 @@
     "time": 514,
     "timeDay": 347,
     "timeWeek": 404,
-    "timeMonth": 472,
+    "timeMonth": 476,
     "timeYear": 514,
     "dailyMinutesDown": {}
   },
@@ -2420,7 +2420,7 @@
     "uptimeYear": "99.41%",
     "time": 349,
     "timeDay": 268,
-    "timeWeek": 528,
+    "timeWeek": 553,
     "timeMonth": 581,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -2522,7 +2522,7 @@
     "url": "https://www.wd-deo.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wd-deo.gc.ca.ico",
     "slug": "western-economic-diversification-canada-diversification-de-l-economie-de-l-ouest-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
