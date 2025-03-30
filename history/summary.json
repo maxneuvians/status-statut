@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-03-30": 883,
+      "2025-03-30": 894,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -158,7 +158,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-03-30": 883,
+      "2025-03-30": 894,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1065,7 +1065,7 @@
     "timeMonth": 581,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-03-30": 885,
+      "2025-03-30": 895,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -2466,7 +2466,7 @@
     "url": "https://www.tbs-sct.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tbs-sct.gc.ca.ico",
     "slug": "welcome-to-the-treasury-board-of-canada-secretariat-bienvenue-au-secretariat-du-conseil-du-tresor-du-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
