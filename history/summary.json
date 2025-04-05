@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-04-05": 667,
+      "2025-04-05": 678,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-04-05": 667,
+      "2025-04-05": 678,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -501,17 +501,17 @@
     "url": "https://iaac-aeic.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/iaac-aeic.gc.ca.ico",
     "slug": "impact-assessment-agency-of-canada-agence-d-evaluation-d-impact-du-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 331,
-    "timeWeek": 315,
-    "timeMonth": 316,
-    "timeYear": 294,
+    "time": 293,
+    "timeDay": 308,
+    "timeWeek": 311,
+    "timeMonth": 315,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -1078,7 +1078,7 @@
     "timeMonth": 655,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-04-05": 668,
+      "2025-04-05": 679,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -2068,7 +2068,7 @@
     "time": 2110,
     "timeDay": 1561,
     "timeWeek": 2181,
-    "timeMonth": 2393,
+    "timeMonth": 2411,
     "timeYear": 2110,
     "dailyMinutesDown": {
       "2025-04-02": 40,
@@ -2100,7 +2100,7 @@
     "time": 219,
     "timeDay": 237,
     "timeWeek": 204,
-    "timeMonth": 193,
+    "timeMonth": 194,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
