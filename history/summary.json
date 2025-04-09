@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-04-09": 264,
+      "2025-04-09": 279,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-04-09": 264,
+      "2025-04-09": 279,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -878,7 +878,7 @@
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 293,
-    "timeWeek": 308,
+    "timeWeek": 306,
     "timeMonth": 323,
     "timeYear": 321,
     "dailyMinutesDown": {}
@@ -1087,7 +1087,7 @@
     "timeMonth": 621,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2025-04-09": 266,
+      "2025-04-09": 280,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -2499,7 +2499,7 @@
     "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 453,
-    "timeWeek": 322,
+    "timeWeek": 318,
     "timeMonth": 294,
     "timeYear": 310,
     "dailyMinutesDown": {}
@@ -2517,7 +2517,7 @@
     "uptimeYear": "100.00%",
     "time": 955,
     "timeDay": 1224,
-    "timeWeek": 749,
+    "timeWeek": 718,
     "timeMonth": 1146,
     "timeYear": 955,
     "dailyMinutesDown": {}
@@ -2571,7 +2571,7 @@
     "url": "https://www.wd-deo.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wd-deo.gc.ca.ico",
     "slug": "western-economic-diversification-canada-diversification-de-l-economie-de-l-ouest-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
