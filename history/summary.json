@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-04-10": 579,
+      "2025-04-10": 589,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-04-10": 579,
+      "2025-04-10": 589,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -519,7 +519,7 @@
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 177,
-    "timeWeek": 326,
+    "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 295,
     "dailyMinutesDown": {}
@@ -880,7 +880,7 @@
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 302,
-    "timeWeek": 302,
+    "timeWeek": 303,
     "timeMonth": 323,
     "timeYear": 321,
     "dailyMinutesDown": {}
@@ -1091,7 +1091,7 @@
     "timeMonth": 609,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-04-10": 581,
+      "2025-04-10": 590,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -2576,7 +2576,7 @@
     "url": "https://www.wd-deo.gc.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.wd-deo.gc.ca.ico",
     "slug": "western-economic-diversification-canada-diversification-de-l-economie-de-l-ouest-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
